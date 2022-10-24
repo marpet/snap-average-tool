@@ -1,4 +1,4 @@
-A simple averaging tool excluding a provided mask from the averaging.
+An averagingoperator which only considerd the pixels of provided mask (expression).
 
 
 
