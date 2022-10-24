@@ -1,8 +1,3 @@
-An averagingoperator which only considerd the pixels of provided mask (expression).
+# AvgTool
 
-
-
-
-
-
-
+An averaging operator which only considers the pixels of a provided mask (expression).
